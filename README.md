@@ -23,8 +23,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Program
 ```
-Developed By:Challa Sandeep.
-Register No:212221240011.
+Developed By:S VAISHNAV NANDA.
+Register No:212222240112.
 ```
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
